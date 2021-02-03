@@ -14,7 +14,7 @@ Area of interests:
   - Native Application Development (Flutter, React Native)
 
 How to reach me: 
-  - 📫 Write at hello@imfaisal.me 
+  - 📫 Write at foysal20x@gmail.com 
   - 👋 Say Hi on [Linkedin](https://linkedin.com/in/Faisal50x) 
   - 💬 Stay connect on [Twitter](https://twitter.com/Faisal50x)  
 
