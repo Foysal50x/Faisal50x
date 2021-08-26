@@ -8,10 +8,10 @@ My preferred Database Mongo DB, MySQL. I like to work with ORM (powerful method 
 Currently I am [available for hire](https://linkedin.com/in/Faisal50x) (remotely, preferabily contracts or [36h/week]). 
 
 Area of interests:
-  - Laravel, PHP
-  - JavaScript And Node JS
+  - Laravel, PHP, ReactPHP, Symfony
+  - JavaScript And Node JS (Adonis, ExpressJS, FeathersJS)
   - iOS Development(Swift, SwiftUI)
-  - Native Application Development (Flutter, React Native)
+  - Native Application Development (React Native)
 
 How to reach me: 
   - 📫 Write at foysal20x@gmail.com 
