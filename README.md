@@ -2,10 +2,11 @@
 ----
 
 I'm Faisal Ahmed working as a software engineer since 2017. 
-I love to work with backend programming beside PHP and Node JS.
-My preferred Database Mongo DB, MySQL. I like to work with ORM (powerful method for designing and querying database models). Looking for a better opportunity to learn more and bloom my expertise.
+I love to work with backend programming besides PHP and Node JS. 
+My preferred Database is Mongo DB, MySQL. I like to work with ORM (a powerful method for designing and querying database models). 
+I'm looking for a better opportunity to learn more and bloom my expertise.
 
-Currently I am [available for hire](https://linkedin.com/in/Faisal50x) (remotely, preferabily contracts or [36h/week]). 
+Currently, I am [available for hire](https://linkedin.com/in/Faisal50x) (remotely, preferably contracts or [36h/week]). 
 
 Area of interests:
   - Laravel, PHP, ReactPHP, Symfony
